@@ -404,7 +404,7 @@ a:focus {
 }
 
 .portfolio_section {
-  background-color: #a3afe4;
+  background-color: #0fcfdc;
 }
 /* background-color: #717db4; */
 
@@ -909,13 +909,8 @@ a:focus {
 .footer_section a {
   color: #ffffff;
 }
-
-
-/* .zlil {
-  background: url("images/coverLand.jpg") no-repeat;
-  display: inline-block;
-}
-.zlil:hover {
-  background: url("images/code.jpg") no-repeat;
+/* .back-to-top {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
 } */
-/*# sourceMappingURL=style.css.map */
