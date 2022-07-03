@@ -16,6 +16,78 @@
   .achieve_section .achieve_container {
     flex-wrap: wrap;
   }
+  .achieve_section .achieve_container1 {
+    /* text-align: center;
+    display: inline-block; */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .achieve_section .achieve_container2 {
+    /* text-align: center;
+    display: inline-block; */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .achieve_section .achieve_container4 {
+    /* text-align: center;
+    display: inline-block; */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .achieve_section .achieve_container5 {
+    /* text-align: center;
+    display: inline-block; */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .achieve_section .achieve_container6 {
+    /* text-align: center;
+    display: inline-block; */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .achieve_section .achieve_container7 {
+    /* text-align: center;
+    display: inline-block; */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
   
 
   .info_section .info_container {
