@@ -88,6 +88,18 @@
         -ms-flex-pack: center;
             justify-content: center;
   }
+  .achieve_section .achieve_container8 {
+    /* text-align: center;
+    display: inline-block; */
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 230px;
+    height: 230px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
   
 
   .info_section .info_container {
