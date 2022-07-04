@@ -185,9 +185,15 @@
 }
 
 @media (max-width: 360px) {}
+@media screen and (max-width: 480px) {
+  .back-to-top {
+    visibility: hidden;
+  }
+}
 
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px;
   }
 }
+
