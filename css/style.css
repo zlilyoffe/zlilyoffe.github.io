@@ -932,6 +932,9 @@ a:focus {
   padding-left: 40px;
   padding-top: 30px;
 }
+.font-arch{
+  font-size: 1.5em;
+}
 /* 
 .back-to-top {
   text-align: center;

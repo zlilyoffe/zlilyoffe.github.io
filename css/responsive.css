@@ -198,6 +198,9 @@
   .home {
     font-size: 30px;
   }
+  .font-arch{
+    font-size: 1.2em;
+  }
 }
 
 @media (min-width: 1200px) {
