@@ -178,6 +178,12 @@
   .slider_section .detail_box h1 {
     font-size: 2rem;
   }
+  .home {
+    font-size: 30px;
+  }
+  .marketList{
+    padding-left: 150px;
+  }
 
   .portfolio_section .portfolio_container .box-2-btm {
     flex-direction: column;
@@ -188,6 +194,9 @@
 @media screen and (max-width: 480px) {
   .back-to-top {
     visibility: hidden;
+  }
+  .home {
+    font-size: 30px;
   }
 }
 
