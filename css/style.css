@@ -928,6 +928,10 @@ a:focus {
 .marketList{
   padding-left: 130px;
 }
+.ui-color{
+  padding-left: 40px;
+  padding-top: 30px;
+}
 /* 
 .back-to-top {
   text-align: center;
