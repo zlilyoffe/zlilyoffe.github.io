@@ -95,11 +95,44 @@
     margin-left: auto;
     margin-right: auto;
     width: 230px;
-    height: 230px;
+    height: 500px;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
   }
+  .achieve_section .achieve_container9 {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 130px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  
+.navbar-brand2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.navbar-brand2 img {
+  width: 20px;
+  margin-right: 5px;
+  margin-left: auto;
+  margin-right: 5px;
+}
+
+.navbar-brand2 span {
+  font-size: 15px;
+  font-weight: 700;
+  color: #0fcfdc;
+  margin-right: 50px;
+  text-transform: uppercase;
+}
   
 
   .info_section .info_container {
@@ -177,9 +210,11 @@
 @media (max-width: 420px) {
   .slider_section .detail_box h1 {
     font-size: 2rem;
+    height: 100vh;
   }
   .home {
     font-size: 30px;
+    padding-top: 10px;
   }
   .marketList{
     padding-left: 150px;
@@ -190,13 +225,15 @@
   }
 }
 
-@media (max-width: 360px) {}
+@media (max-width: 360px) {
+}
 @media screen and (max-width: 480px) {
   .back-to-top {
     visibility: hidden;
   }
   .home {
     font-size: 30px;
+    padding-top: auto;
   }
   .font-arch{
     font-size: 1.2em;
