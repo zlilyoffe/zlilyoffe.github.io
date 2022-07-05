@@ -150,7 +150,8 @@
   }
 
   .slider_section {
-    padding-top: 50px;
+    /* padding-top: 20px; */
+    height: 100vh;
   }
 
   .slider_section .detail_box {
