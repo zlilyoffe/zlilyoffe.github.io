@@ -233,8 +233,11 @@
     visibility: hidden;
   }
   .home {
-    font-size: 30px;
+    font-size: 50px;
     padding-top: auto;
+  }
+  .home2{
+    font-size: 30px;
   }
   .font-arch{
     font-size: 1.2em;

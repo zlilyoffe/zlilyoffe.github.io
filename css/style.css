@@ -428,7 +428,7 @@ a:focus {
 }
 
 .portfolio_section {
-  background-color: #0fcfdc;
+  background-color: #f3f3f3;
 }
 /* background-color: #717db4; */
 
@@ -946,8 +946,13 @@ a:focus {
   color: #ffffff;
 }
 .home {
-  font-size: 50px;
+  font-size: 70px;
   padding-top: 150px;
+  
+}
+.home2{
+  font-size: 50px;
+
 }
 .marketList{
   padding-left: 130px;
