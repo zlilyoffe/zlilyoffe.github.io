@@ -227,6 +227,11 @@
 }
 
 @media (max-width: 360px) {
+  .grivo {
+    padding-left:130px ;
+    font-weight: bold;
+    font-size: 1em;
+  }
 }
 @media screen and (max-width: 480px) {
   .back-to-top {
@@ -241,6 +246,11 @@
   }
   .font-arch{
     font-size: 1.2em;
+  }
+  .grivo {
+    padding-left:130px ;
+    font-weight: bold;
+    font-size: 1em;
   }
 }
 

@@ -1009,6 +1009,11 @@ a:focus {
   position:absolute;
   /* animation-iteration-count: infinite; */
 }
+.grivo {
+  padding-left:130px ;
+  font-weight: bold;
+  font-size: 1.8em;
+}
 
 /* @keyframes slidein {
 0% {
