@@ -1002,6 +1002,9 @@ a:focus {
 .back-to-top:hover {
   opacity: 0.9;
 } */
+.marketResearch{
+  padding-left: 130px;
+}
 .imgHome {
  size: 0.2em;
   animation-duration: 8s;
