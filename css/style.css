@@ -90,7 +90,7 @@ body {
 .sub_page .hero_area {
   height: auto;
   background-image: none;
-  background-color: #e1f3fd;
+  /* background-color: #e1f3fd; */
 }
 
 .sub_page .hero_area::after {
