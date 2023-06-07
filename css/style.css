@@ -109,7 +109,7 @@ body {
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   margin: 10px 30px;
   padding: 0;
-  color: #0fcfdc;
+  color: #000000;
   text-align: center;
   position: relative;
   text-transform: uppercase;
@@ -124,12 +124,12 @@ body {
   left: -10px;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background-color: #0fcfdc;
+  /* background-color: #0fcfdc; */
   border-radius: 100%;
 }
 
 .custom_nav-container .navbar-nav .nav-item.active .nav-link, .custom_nav-container .navbar-nav .nav-item:hover .nav-link {
-  color: #2a2132;
+  color: #df1234;
 }
 
 .custom_nav-container .navbar-nav .nav-item.active .nav-link::before, .custom_nav-container .navbar-nav .nav-item:hover .nav-link::before {
@@ -182,7 +182,7 @@ a:focus {
 .navbar-brand span {
   font-size: 20px;
   font-weight: 700;
-  color: #0fcfdc;
+  color: #df1234;
   text-transform: uppercase;
 }
 
@@ -205,7 +205,7 @@ a:focus {
 .navbar-brand2 span {
   font-size: 20px;
   font-weight: 700;
-  color: #0fcfdc;
+  color: #df1234;
   margin-right: 50px;
   text-transform: uppercase;
 }
@@ -279,11 +279,19 @@ a:focus {
 .slider_section .detail_box .btn-box .btn-1 {
   display: inline-block;
   padding: 7px 0px;
-  background-color: #0fcfdc;
+  background-color: #df1234;
   color: #ffffff;
   border-radius: 30px;
   margin-right: 5px;
+  animation-name: myPortfolio;
+  animation-duration: 6s;
 }
+
+  @keyframes myPortfolio {
+    from {background-color: #df9b12;}
+    to {background-color: #df1234;}
+  }
+
 .slider_section .detail_box .btn-box1 .btn-1 {
   display: inline-block;
   padding: 7px 7px;
@@ -294,7 +302,7 @@ a:focus {
 }
 
 .slider_section .detail_box .btn-box .btn-1:hover {
-  background-color: #0db9c4;
+  background-color: #490611;
 }
 
 .slider_section .detail_box .btn-box .btn-2 {
@@ -373,7 +381,8 @@ a:focus {
   width: 100%;
 }
 
-.about_section .box .img-box {
+.about_section .box 
+ {
   position: relative;
   width: 250px;
   margin: 50px 0;
@@ -422,7 +431,7 @@ a:focus {
 
 .about_section .box .detail-box {
   margin-top: 35px;
-  text-align: center;
+  text-align: left;
 }
 
 .about_section .box .detail-box a {
@@ -513,7 +522,7 @@ a:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: rgba(15, 207, 220, 0.8);
+  background-color: #df123423;
   z-index: 0;
 }
 
@@ -719,7 +728,7 @@ a:focus {
   text-align: center;
   margin: 45px 20px 0 20px;
   padding: 45px 35px 15px 35px;
-  border: 1px solid #0fcfdc;
+  border: 1px solid #df1234;
 }
 
 .achieve_section .achieve_container .box .img-box {
@@ -782,7 +791,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 15px;
   background-position: center;
-  background-color: #0fcfdc;
+  background-color: #df1234;
   margin: 0 5px;
 }
 
@@ -801,7 +810,7 @@ a:focus {
 
 .client_section .detail-box {
   padding: 20px;
-  border: 1px solid #0fcfdc;
+  border: 1px solid #df1234;
   margin: 0 25px;
 }
 
@@ -877,7 +886,7 @@ a:focus {
 .contact_section .contact_form-container button {
   display: inline-block;
   padding: 12px 50px;
-  background-color: #0fcfdc;
+  background-color: #df1234;
   color: #ffffff;
   border-radius: 0;
   margin-top: 35px;
@@ -885,7 +894,7 @@ a:focus {
 }
 
 .contact_section .contact_form-container button:hover {
-  background-color: #0db9c4;
+  background-color: #df1234;
 }
 
 /* end contact section */
@@ -964,8 +973,16 @@ a:focus {
 }
 .home2{
   font-size: 50px;
-
+  color: #df1234;
+  animation-name: product;
+  animation-duration: 6s;
 }
+
+  @keyframes product {
+    from {color: #df9b12;}
+    to {color: #df1234;}
+  }
+
 .marketList{
   padding-left: 130px;
 }
