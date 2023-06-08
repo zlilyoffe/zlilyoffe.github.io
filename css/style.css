@@ -433,7 +433,7 @@ a:focus {
   margin-top: 35px;
   text-align: center;
   width: 500px;
-  font-family: cursive;
+  /* font-family: cursive; */
 }
 
 .about_section .box .detail-box a {
