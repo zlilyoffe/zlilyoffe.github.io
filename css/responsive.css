@@ -159,7 +159,7 @@
 
   .slider_section {
     /* padding-top: 20px; */
-    height: 100vh;
+    /* height: 100vh; */
   }
 
   .slider_section .detail_box {
@@ -252,6 +252,13 @@
   .home {
     font-size: 50px;
     padding-top: auto;
+  }
+  .home-elementor {
+    color: #df1234;
+    font-size: 35px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
   }
   .home2{
     font-size: 30px;

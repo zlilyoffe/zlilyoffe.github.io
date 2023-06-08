@@ -997,6 +997,14 @@ a:focus {
 }
 .font-now14{
   font-size: 1.2em;
+  padding-top: 20px;
+}
+
+.home-elementor {
+  font-size: 2em;
+  padding-top: 20px;
+  color:#E30613;
+
 }
 /* 
 .back-to-top {
