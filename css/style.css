@@ -431,7 +431,9 @@ a:focus {
 
 .about_section .box .detail-box {
   margin-top: 35px;
-  text-align: left;
+  text-align: center;
+  width: 600px;
+  font-family: cursive;
 }
 
 .about_section .box .detail-box a {
