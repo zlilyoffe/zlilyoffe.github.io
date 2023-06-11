@@ -702,6 +702,20 @@ a:focus {
       -ms-flex-pack: center;
           justify-content: center;
 }
+.achieve_section .achieve_container10 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+ 
+  height: 350px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
 .achieve_section .achieve_container {
   display: -webkit-box;
   display: -ms-flexbox;
