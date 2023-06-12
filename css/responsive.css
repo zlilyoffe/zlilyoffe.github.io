@@ -121,10 +121,11 @@
     display: flex;
     margin-left: auto;
     margin-right: auto;
-    height: 130px;
+    height: 90px;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+            
   }
   
   
@@ -169,7 +170,7 @@
 
   .slider_section {
     /* padding-top: 20px; */
-    height: 100vh;
+    /* height: 100vh; */
   }
 
   .slider_section .detail_box {
