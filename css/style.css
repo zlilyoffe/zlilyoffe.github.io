@@ -696,6 +696,8 @@ a:focus {
   display: flex;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
  
   height: 350px;
   -webkit-box-pack: center;
