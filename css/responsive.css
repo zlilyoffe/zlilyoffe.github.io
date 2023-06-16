@@ -208,6 +208,9 @@
   .client_section .detail-box {
     margin-bottom: 35px;
   }
+  .detail-box{
+    margin: auto;
+  }
 
   .client_section .row {
     flex-wrap: wrap-reverse;
