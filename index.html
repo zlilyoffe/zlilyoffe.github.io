@@ -383,24 +383,24 @@ There I decided to plan an app that helps you to find where the vehicle load is 
   <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
   <script type="text/javascript" src="js/bootstrap.js"></script>
   <script>
-    let viewCount = 122;
-    fetch('', {
-      method: 'POST',
-      body: {
-        name: 'User1'
-      }
-    });
+    // let viewCount = 122;
+    // fetch('', {
+    //   method: 'POST',
+    //   body: {
+    //     name: 'User1'
+    //   }
+    // });
 
 
-    fetch("http://16.171.141.207:4000/viewers").then((result)=> {
-      result.json()
-      .then((res) => {
-        console.log(res);
-        viewCount = res;
-        document.querySelector('.views_section').innerHTML = `<div class="container"><p><a>views: ${viewCount}</a></p></div>`;
+    // fetch("http://16.171.141.207:4000/viewers").then((result)=> {
+    //   result.json()
+    //   .then((res) => {
+    //     console.log(res);
+    //     viewCount = res;
+    //     document.querySelector('.views_section').innerHTML = `<div class="container"><p><a>views: ${viewCount}</a></p></div>`;
 
-      })
-    });
+    //   })
+    // });
     
   </script>
 </body>
